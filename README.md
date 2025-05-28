@@ -1,4 +1,4 @@
-# 🧩 Sudoku Game (C++ Console Application)
+# Sudoku Game (C++ Console Application)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue)](https://en.cppreference.com/w/cpp/17)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
@@ -12,7 +12,7 @@ A fully-functional **Sudoku game** built from scratch in **modern C++**. This is
 
 ---
 
-## 🖼️ Preview
+## Preview
 
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/4c4b1ac3-d223-404e-b6ee-1c82c7b2d81e)
@@ -22,18 +22,18 @@ A fully-functional **Sudoku game** built from scratch in **modern C++**. This is
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔄 **Auto-Generated Puzzles** – Unique, solvable Sudoku boards every time you start a new game.
-- 💾 **Game Saving** – Store up to 3 games with the ability to resume later.
-- ⌨️ **Console-Based Input** – Lightweight and fast, with intuitive controls.
-- 🧠 **Solver Logic** – Ensures each puzzle is valid using backtracking.
+-  **Auto-Generated Puzzles** – Unique, solvable Sudoku boards every time you start a new game.
+-  **Game Saving** – Store up to 3 games with the ability to resume later.
+-  **Console-Based Input** – Lightweight and fast, with intuitive controls.
+-  **Solver Logic** – Ensures each puzzle is valid using backtracking.
 
 ---
 
 ## 📦 How to Run
 
-### 🧭 Option 1: Quick Start via VS Code
+### Option 1: Quick Start via VS Code
 
 > 💡 Recommended for most users
 
@@ -48,7 +48,7 @@ A fully-functional **Sudoku game** built from scratch in **modern C++**. This is
 
 ---
 
-### 🧭 Option 2: Manual Setup (New Project)
+### Option 2: Manual Setup (New Project)
 
 > If you're starting fresh
 
@@ -68,7 +68,7 @@ A fully-functional **Sudoku game** built from scratch in **modern C++**. This is
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```bash
 /FINANL_SUDOKU/
