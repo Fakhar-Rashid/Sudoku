@@ -1,0 +1,18 @@
+# Ignore Visual Studio files
+.vs/
+*.vcxproj.user
+*.VC.db
+*.opendb
+
+# Ignore build files
+*.exe
+*.obj
+*.o
+*.log
+*.suo
+*.ipch
+*.pch
+*.ilk
+
+# Ignore C++ output
+main
